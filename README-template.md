@@ -20,7 +20,7 @@ I completed this project using HTML and CSS styling, I used HTML to create the s
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://dondera23.github.io/qrcode-html/)
+- Live Site URL: [Add live site URL here](https://dondera23.github.io/myqrcode-html/)
 
 ## My process
    I used a div element to create the neccessary container for this project, then used media query to create the appropriate visual presentation for both mobile and desktop view. Used margin, padding for the right positioning of the project.
